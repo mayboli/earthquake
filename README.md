@@ -10,4 +10,4 @@ After analzying the map, it seems that most of the earthquakes in the United Sta
 
 Then, zooming out from the map, it appears that the earthquakes with higher magnitudes actually appear elsewhere in the world, such as the coast of South America and tons of huge earthquakes on land bordering the Pacific Ocean. 
 
-With some research on Google, it is discovered that the tectonic plates occur along the west coast of United States and South America which explains why most of the earthquakes occur there. 
+With some research on Google, it is discovered that the tectonic plates occur along the west coast of United States and South America which explains why most of the earthquakes occur there. The earthquakes that occur in the Pacific Ocean is actually called the "Ring of Fire". 
