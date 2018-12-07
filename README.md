@@ -1,6 +1,6 @@
 # earthquake
 
-Tools Used: Leaflet, HTML/CSS, JavaScript, d3
+Tools Used: Mapbox, HTML/CSS, JavaScript, d3
 
 The United States Geological Survey (USGS) provides earthquake data that is updated every 5 minutes separated into categories such as different magnitudes from the past hour, past day, past 7 days, and past 30 days. 
 
