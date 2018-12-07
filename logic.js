@@ -34,7 +34,7 @@ function createFeatures(earthquakeData) {
             opacity: 1,
             fillOpacity: 1
         };
-        
+
         return L.circleMarker(latlng, geojsonMarkerOptions);
       }
 
@@ -78,6 +78,7 @@ function createFeatures(earthquakeData) {
       collapsed: false
     }).addTo(myMap);
 
+    // Creating legend
     var legend = L.control({position: 'bottomright'});
 
     legend.onAdd = function (map) {
